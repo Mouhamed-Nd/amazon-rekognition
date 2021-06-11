@@ -1,8 +1,0 @@
----------------------------------
-'key'    => 'AKIAXX5PDQNAYASFASFF',
-        'secret' => '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'
--------------------------------------------------------------------
-'credentials' => [
-        'key'    => 'AKIAXX5PDQNAYASFASFF',
-        'secret' => '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'
-    ]
